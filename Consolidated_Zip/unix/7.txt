@@ -1,0 +1,5 @@
+#creating a hard link
+
+
+ln  test123 test123-hl
+

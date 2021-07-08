@@ -1,0 +1,8 @@
+#create directory
+
+mkdir newdir
+
+
+#give permission of rwx only to owner
+
+chmod 700 dir

@@ -1,0 +1,7 @@
+ #inodes are same for filename and hardlink
+
+ 
+ls -i test123 test123
+
+ls -i test123 test123-hl
+

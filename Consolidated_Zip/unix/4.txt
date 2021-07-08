@@ -1,0 +1,3 @@
+#move files into directory
+
+mv a b c dir

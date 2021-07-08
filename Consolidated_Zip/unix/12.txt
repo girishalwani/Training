@@ -1,0 +1,3 @@
+#to find files with respective inode number
+
+find / -mount -inum 1
