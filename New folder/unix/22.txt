@@ -1,9 +1,0 @@
-
-
-
-#tar file creation for file names starting with letters between a and k 
-
-
-find . -type f -name '[a-k]*' | tar -cvjf my.tar.bz2 --files-from -
-
-

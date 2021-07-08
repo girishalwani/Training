@@ -1,3 +1,0 @@
-#When a directory is created it has default link count of 2.
-Because for every directory a link gets created in the parent 
-directory to its new directory. 

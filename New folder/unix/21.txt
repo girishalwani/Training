@@ -1,7 +1,0 @@
-
-#compress and uncompress files in the directory
-
-
-zip -r m unix
-
-unzip m

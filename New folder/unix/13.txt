@@ -1,4 +1,0 @@
-#command to list all other files
-
-ls -l .?*
-

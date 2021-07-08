@@ -1,4 +1,0 @@
-#list of file names with 4 characters
-
-
-ls -l ????

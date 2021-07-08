@@ -1,3 +1,0 @@
-#files in descending order of creation time
-
-ls -lt

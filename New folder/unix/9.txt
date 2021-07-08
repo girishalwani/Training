@@ -1,5 +1,0 @@
-#creating softlink to directory
- 
-
-ln -s newdir newdir-sl
-

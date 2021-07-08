@@ -1,4 +1,0 @@
-
-#list hidden files
-
-ls -l .?*
