@@ -1,0 +1,3 @@
+#list all filenames into another file 
+
+ls -a>>allfilenames.txt

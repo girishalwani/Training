@@ -1,0 +1,10 @@
+touch a
+
+touch b
+
+touch c
+
+
+#copy files into directory
+
+cp a b c dir

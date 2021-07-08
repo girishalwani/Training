@@ -1,0 +1,9 @@
+#softlink creation and testing
+
+
+ln -s test123 test123-sl
+
+
+ls -l test123 test123-sl
+
+

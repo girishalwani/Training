@@ -1,0 +1,1 @@
+SELECT * from(SELECT ename,sal from emp order by sal asc)where rownum<=&N

@@ -1,0 +1,7 @@
+#inode numbers are different for file and testlink
+
+
+
+ls -i test123
+
+ls -i test123-sl

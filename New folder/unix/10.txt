@@ -1,0 +1,4 @@
+ #inodes are different for directory and hardlink
+
+
+ls -i

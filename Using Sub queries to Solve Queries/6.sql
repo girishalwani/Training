@@ -1,0 +1,1 @@
+SELECT empno,ename FROM emp where deptno IN (SELECT deptno FROM emp where ename IN(select ename from emp where ename like'%R%'))

@@ -1,0 +1,4 @@
+eno,ename,sal,dno  
+1,haria,$5000,10  
+2,sasi,$6000,20
+3,John,$6000,20  

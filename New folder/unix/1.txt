@@ -1,0 +1,14 @@
+#Create new file
+
+touch test123
+
+
+#remove write permssion to group and others
+
+chmod go-w test123
+
+
+#list all the permissions
+
+ls -l test123
+

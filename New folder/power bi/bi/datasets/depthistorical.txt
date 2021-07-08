@@ -1,0 +1,3 @@
+dno,dname,loc  
+30,History,mumbai  
+40,Commerce,Delhi  

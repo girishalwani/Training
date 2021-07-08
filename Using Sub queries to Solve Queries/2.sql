@@ -1,0 +1,1 @@
+SELECT ename,sal FROM emp where sal>(SELECT avg(sal) FROM emp);

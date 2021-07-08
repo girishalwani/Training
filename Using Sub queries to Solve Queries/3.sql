@@ -1,0 +1,4 @@
+SELECT ename,job
+FROM emp e
+WHERE EXISTS
+(SELECT job FROM emp WHERE e.job='MANAGER');
